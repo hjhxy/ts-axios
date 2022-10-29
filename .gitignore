@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 coverage
 .nyc_output
@@ -10,3 +11,23 @@ compiled
 .awcache
 .rpt2_cache
 docs
+=======
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> a0ac999fdd09d15ad54f201372abd1c3fc747119
